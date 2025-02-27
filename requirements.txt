@@ -1,0 +1,5 @@
+Pillow==10.1.0
+PyPDF2==3.0.1
+pyfiglet==1.0.2
+colorama==0.4.6
+piexif==1.1.3
