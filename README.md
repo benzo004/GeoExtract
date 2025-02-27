@@ -11,11 +11,9 @@ A powerful command-line tool for extracting geolocation metadata from images and
 - Built-in test image creation for easy demonstration.
 - Option to manually input coordinates for visualization.
 
-## Use Cases
-- Digital forensics and metadata analysis.
-- Photography organization and mapping.
-- Educational purposes for understanding embedded metadata.
-- Location data extraction and visualization.
+## Use Example
+
+![{2BE7DCCA-27D6-4F62-ACC8-1771C2F7842B}](https://github.com/user-attachments/assets/c9ac8853-2131-42e6-8d08-07d74b4731ad)
 
 ## Installation
 
