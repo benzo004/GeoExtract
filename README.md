@@ -80,7 +80,6 @@ The project is structured as follows:
 
 - **geoextract.py**: Main script with all functionality.
 - **requirements.txt**: List of dependencies.
-- **README.txt**: Documentation.
 
 ## Disclaimer
 
